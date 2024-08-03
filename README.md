@@ -1,3 +1,5 @@
+https://stepant1005.github.io/test-work-calculator/
+
 # Kalkulačka v JavaScriptu
 
 Tento projekt je jednoduchá kalkulačka napsaná v JavaScriptu, která umožňuje provádět základní aritmetické operace: sčítání, odčítání, násobení a dělení. Projekt demonstruje použití JavaScriptu pro vytváření interaktivních webových aplikací s jednoduchou logikou a uživatelským rozhraním.
